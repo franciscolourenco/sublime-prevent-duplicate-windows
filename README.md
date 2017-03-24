@@ -4,6 +4,7 @@
 <p>
   <img src="https://img.shields.io/github/release/aristidesfl/sublime-prevent-duplicate-windows.svg" alt="Release version">
   <img src="https://img.shields.io/badge/stability-stable-green.svg" alt="Stability: Stable">
+  <img src="https://img.shields.io/packagecontrol/dm/Prevent%20Duplicate%20Windows.svg" alt="Package Control">
   <img src="https://img.shields.io/badge/license-MIT-lightgray.svg" alt="License: MIT">
 </p>
 
