@@ -27,3 +27,8 @@ To install via Package Control, do the following:
 
 1. When the package list appears, type `prevent duplicate`. Among the entries you should see `Prevent Duplicate Windows`. If that entry is not highlighted, use the keyboard or mouse to select it.
 
+## Caveats
+
+This package also prevents multiple workspaces with the same folders from being open in different windows side by side.
+This limitation results from not being able to identify which workspace is open.
+You can still switch between workspaces in the same window using "Quick Switch Project...".
